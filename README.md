@@ -196,4 +196,4 @@ It motivates me to build more Data Analytics and Power BI projects.
 ## 📬 Connect With Me
 
 - GitHub: https://github.com/MDADILIFTEKHAR
-- LinkedIn: *(Add your LinkedIn Profile URL)*
+- LinkedIn: *([Add your LinkedIn Profile URL](https://www.linkedin.com/in/md-adil-iftekhar-213303217/))*
